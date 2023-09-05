@@ -4,7 +4,7 @@
 
 **Project Duration:** 2 Weeks
 
-**Team Members:** Hitesh (Team Leader), Imran, Sunit, Abhishek, Anirudh
+**Team Members:** Hitesh (Team Leader), Imran, Sunil, Abishek, Anirudh
 
 **Week 1:**
 
@@ -67,7 +67,7 @@
 
 **Task Assignments:**
 
-- **Abhishek:** Implement the Scan & Go microservice.
+- **Abishek:** Implement the Scan & Go microservice.
 - **Sunil:** Develop the Reserve Vehicle and Share Ride microservices.
 - **Imran:** Create the Get a Buddy and Become Buddy microservices.
 - **Anirudh:** Implement Battery Swapping and Charging Stations.
@@ -79,5 +79,3 @@ Hitesh sharma
 MYeKIGAI Software Development Team
 
 ---
-
-This detailed schedule should provide a comprehensive overview of the project timeline and tasks to be accomplished by each team member.
